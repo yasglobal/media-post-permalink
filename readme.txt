@@ -1,12 +1,11 @@
 === Media Post Permalink ===
 Contributors: sasiddiqui
-Donate link: https://www.paypal.me/yasglobal
 Tags: media, attachment, permalink, image permalink, video permalink, post attachment permalink, user-friendly, remove parent post
 Requires at least: 4.0
 Tested up to: 4.9
 Stable tag: 0.1
 License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+License URI: http://www.gnu.org/licenses/gpl.html
 
 Media Post Permalink is simply the easiest solution to separate your media/attachment Permalinks.
 
